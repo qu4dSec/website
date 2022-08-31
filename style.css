@@ -391,11 +391,8 @@ h3 {
 
 
 .up_arrow{
-
-    width: 4rem;
-    height: 4rem;
-    border-radius: 10px;
-    background-color: var(--yellow);
+    width: 5rem;
+    height: 5rem;
 }
 
 
